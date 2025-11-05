@@ -26,9 +26,10 @@ https://{your-vercel-domain}/api/proxy?target={target-path}
 >
 > Then the URL you need to access should be:
 > ```
-> https://your-vercel-app.vercel.app/proxy?url=https%3A//api.example.com/data
+> https://your-vercel-app.vercel.app/api/proxy?target=https%3A//api.example.com/data
 > ```
 
+<!-- https://simple-vercel-proxy-six.vercel.app/api/proxy?target=https://developers.cloudflare.com/durable-objects/get-started/ -->
 ## ⚙️ Configuration Guide
 
 You can easily customize the proxy behavior by setting environment variables in your Vercel project.
