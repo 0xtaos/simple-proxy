@@ -58,7 +58,7 @@ You can easily deploy this project to your own Vercel account.
 3.  Enter the project configuration page, **expand the "Environment Variables" tab**, and add necessary environment variables (at least `ALLOWED_TARGETS` is required).
 4.  Click "Deploy" and wait a moment for deployment to complete!
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/justlovemaki/vercel-proxy)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/0xtaos/simple-proxy.git)
 
 ---
 
